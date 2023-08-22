@@ -24,12 +24,11 @@ if (number >= 2) {
 
 */
 
-
 // 1. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// The number varaible equal 1
+// with the ++ we added 1 to our number making it equal two
+// if the number is greater than or equal to 2 then the cosole will log "yes"
+// since our number with the ++ now equals two, the console will log "yes"
 
 //CODE
 /*
@@ -45,10 +44,10 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// Not sure about this one, specifically what "===" means, but I'll give it a shot. 
+// The name variable equals "Dane"
+// if it equals "Mary" the console will output "Hi Mary"
+// Since the name variable is Dane instead of Mary the console will output "How do you do?" instead
 
 //CODE
 /*
@@ -70,8 +69,8 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
-// 
-// 
+// There's two variables in this code, "secret" and "code" which equals 123
+// I'm not sure what the rest of the code means beyond this.
 // 
 //
 
